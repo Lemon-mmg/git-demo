@@ -14,4 +14,3 @@ new commit 1
 4444555 by mamingguo
 push via ssh
 add 123 by hot-fix
-master test
